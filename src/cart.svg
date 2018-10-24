@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 25" width="29" height="25">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff } 
+	</style>
+	<g id="Корзина">
+		<path id="Прямоугольник, скругл. углы 1" class="shp0" d="M1.87,21.14c0,2.13 3.87,3.86 5.66,3.86h13.9c1.79,0 5.66,-1.73 5.66,-3.86l1.29,-17h-27.8z" />
+		<path id="Фигура 1" class="shp0" d="M12,0l-4.36,9.31" />
+		<path id="Фигура 1 копия" class="shp0" d="M20.1,9.41l-3.7,-8.99" />
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 18" width="28" height="18">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Группа 2">
+		<path id="Прямоугольник 23" class="shp0" d="M0.22,1.75h27.78v-1.31h-27.78z" />
+		<path id="Прямоугольник 23 копия" class="shp0" d="M0.22,9.56h27.78v-1.31h-27.78z" />
+		<path id="Прямоугольник 23 копия 2" class="shp0" d="M0.22,17.38h27.78v-1.28h-27.78z" />
+	</g>
+</svg>
